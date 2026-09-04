@@ -7,13 +7,13 @@ about:
   head: 30ec0a2
   archived: false
   latestVersion: v4.0.0-canary.5
-  collectedAt: 2026-09-04T19:36:03Z
+  collectedAt: 2026-09-04T21:03:26Z
 timeline:
   created: 2016-07-01
   lastCommit: 2026-08-21
   lastRelease: 2023-07-13
 popularity:
-  star: 44725
+  star: 44726
   watcher: 471
   fork: 3582
   release: 88
@@ -85,6 +85,69 @@ total:
   openIssue: 943
   commit: 4067
 ---
+path: /home/runner/.x-repo/github.com/vercel/hyper
+collectedAt: 2026-09-04T21:03:29Z
+loc:
+  JavaScript:
+    code: 107698
+    comments: 22687
+    blanks: 20839
+    files: 10
+  Yaml:
+    code: 8855
+    comments: 0
+    blanks: 2631
+    files: 4
+  TypeScript:
+    code: 7189
+    comments: 530
+    blanks: 973
+    files: 90
+  Tsx:
+    code: 2359
+    comments: 60
+    blanks: 307
+    files: 14
+  Json:
+    code: 643
+    comments: 0
+    blanks: 0
+    files: 13
+  Bash:
+    code: 62
+    comments: 16
+    blanks: 9
+    files: 3
+  Svg:
+    code: 61
+    comments: 0
+    blanks: 0
+    files: 1
+  Html:
+    code: 19
+    comments: 0
+    blanks: 4
+    files: 1
+  Batch:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Pan:
+    code: 2
+    comments: 2
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 255
+    blanks: 67
+    files: 2
+total:
+  code: 126914
+  comments: 23550
+  blanks: 24834
+  files: 140
 ---
 date: "2026-08-24"
 repo:
