@@ -7,7 +7,7 @@ about:
   head: 30ec0a2
   archived: false
   latestVersion: v4.0.0-canary.5
-  collectedAt: 2026-09-05T04:44:32Z
+  collectedAt: 2026-09-05T18:46:34Z
 timeline:
   created: 2016-07-01
   lastCommit: 2026-08-21
@@ -15,7 +15,7 @@ timeline:
 popularity:
   star: 44727
   watcher: 471
-  fork: 3582
+  fork: 3581
   release: 88
   contributor: 330
   pullRequest: 4234
@@ -86,7 +86,7 @@ total:
   commit: 4067
 ---
 path: /home/runner/.x-repo/github.com/vercel/hyper
-collectedAt: 2026-09-05T04:44:35Z
+collectedAt: 2026-09-05T18:46:37Z
 loc:
   JavaScript:
     code: 107698
