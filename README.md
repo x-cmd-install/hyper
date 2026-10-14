@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 44,734 · **Forks**: 3,580 · **Open issues**: 3,826 · **Contributors**: 329
+- **Stars**: 44,735 · **Forks**: 3,580 · **Open issues**: 3,825 · **Contributors**: 329
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3293 · **Open PRs**: 104 · **Closed issues**: 2881 · **Open issues**: 945 · **Commits**: 4067
+- **Releases**: 88 · **Merged PRs**: 3293 · **Open PRs**: 104 · **Closed issues**: 2880 · **Open issues**: 945 · **Commits**: 4067
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-14 | 0 | 1 | 6 | 0 | 2 | 1 |
-| 90d | 2026-07-15 | 0 | 1 | 8 | 1 | 3 | 1 |
-| last180d | 2026-04-16 | 0 | 2 | 22 | 1 | 5 | 2 |
-| 360d | 2025-10-18 | 0 | 2 | 67 | 2 | 12 | 2 |
-| last720d | 2024-10-23 | 0 | 2 | 70 | 5 | 50 | 2 |
+| 30d | 2026-09-14 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-08-15 | 0 | 1 | 6 | 0 | 2 | 1 |
+| 90d | 2026-07-16 | 0 | 1 | 8 | 1 | 3 | 1 |
+| last180d | 2026-04-17 | 0 | 2 | 22 | 1 | 5 | 2 |
+| 360d | 2025-10-19 | 0 | 2 | 67 | 2 | 12 | 2 |
+| last720d | 2024-10-24 | 0 | 2 | 70 | 5 | 50 | 2 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for hyper lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:50:15Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:47:07Z._
