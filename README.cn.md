@@ -2,6 +2,8 @@
 
 [English version](./README.md)
 
+> ⚠️ 此项目已归档（archived）。
+
 A terminal built on web technologies
 
 [![x-cmd/install — hyper Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hyper.svg?lang=zh)](https://x-cmd.com/install/hyper)
@@ -14,25 +16,25 @@ x install hyper
 
 ## 代码洞察
 
-合计: **126,893** 行代码（覆盖前 5 种语言、共 **131** 个文件）。
+合计: **127,029** 行代码（覆盖前 5 种语言、共 **133** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | JavaScript | 107,698 | 22,687 | 20,839 | 10 |
 | Yaml | 8,855 | 0 | 2,631 | 4 |
-| TypeScript | 7,189 | 530 | 973 | 90 |
+| TypeScript | 7,325 | 566 | 1,010 | 92 |
 | Tsx | 2,359 | 60 | 307 | 14 |
 | Json | 643 | 0 | 0 | 13 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5 / 10**
+总评分: **4.8 / 10**
 
 评分最低的几项:
 
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — project is archived
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -43,27 +45,27 @@ x install hyper
 ## 发布
 
 - **最新版本**: `v4.0.0-canary.5` (2023-01-08)
-- **最近提交**: 2026-08-21
+- **最近提交**: 2026-11-04
 - **Release 含资产**: 21 个
 
 ## 流行度
 
-- **Star**: 44,762 · **Fork**: 3,577 · **开放 issue**: 3,823 · **贡献者**: 328
+- **Star**: 44,762 · **Fork**: 3,576 · **开放 issue**: 3,823 · **贡献者**: 328
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 3293 · **开放 PR**: 105 · **已关闭 issue**: 2878 · **开放 issue**: 945 · **提交数**: 4067
+- **发布数**: 88 · **已合并 PR**: 3294 · **开放 PR**: 105 · **已关闭 issue**: 2878 · **开放 issue**: 945 · **提交数**: 4068
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 4 | 0 | 1 | 0 |
-| 90d | 2026-08-06 | 0 | 1 | 8 | 1 | 2 | 1 |
-| last180d | 2026-05-08 | 0 | 2 | 21 | 1 | 4 | 2 |
-| 360d | 2025-11-09 | 0 | 2 | 68 | 2 | 12 | 2 |
-| last720d | 2024-11-14 | 0 | 2 | 70 | 5 | 49 | 2 |
+| 30d | 2026-10-06 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last60d | 2026-09-06 | 0 | 1 | 4 | 0 | 1 | 1 |
+| 90d | 2026-08-07 | 0 | 2 | 8 | 1 | 2 | 2 |
+| last180d | 2026-05-09 | 0 | 3 | 21 | 1 | 4 | 3 |
+| 360d | 2025-11-10 | 0 | 3 | 68 | 2 | 12 | 3 |
+| last720d | 2024-11-15 | 0 | 3 | 70 | 5 | 49 | 3 |
 
 ## Release 资产
 
@@ -100,4 +102,4 @@ hyper 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:24:45Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:33:56Z._

@@ -2,6 +2,8 @@
 
 [中文版本](./README.cn.md)
 
+> ⚠️ This project is archived.
+
 A terminal built on web technologies
 
 [![x-cmd/install — hyper Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hyper.svg)](https://x-cmd.com/install/hyper)
@@ -14,25 +16,25 @@ x install hyper
 
 ## Code insight
 
-Total: **126,893** lines of code across **131** files in the top 5 languages.
+Total: **127,029** lines of code across **133** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 107,698 | 22,687 | 20,839 | 10 |
 | Yaml | 8,855 | 0 | 2,631 | 4 |
-| TypeScript | 7,189 | 530 | 973 | 90 |
+| TypeScript | 7,325 | 566 | 1,010 | 92 |
 | Tsx | 2,359 | 60 | 307 | 14 |
 | Json | 643 | 0 | 0 | 13 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5 / 10**
+Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — project is archived
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -43,27 +45,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.0.0-canary.5` (2023-01-08)
-- **Last commit**: 2026-08-21
+- **Last commit**: 2026-11-04
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 44,762 · **Forks**: 3,577 · **Open issues**: 3,823 · **Contributors**: 328
+- **Stars**: 44,762 · **Forks**: 3,576 · **Open issues**: 3,823 · **Contributors**: 328
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3293 · **Open PRs**: 105 · **Closed issues**: 2878 · **Open issues**: 945 · **Commits**: 4067
+- **Releases**: 88 · **Merged PRs**: 3294 · **Open PRs**: 105 · **Closed issues**: 2878 · **Open issues**: 945 · **Commits**: 4068
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 4 | 0 | 1 | 0 |
-| 90d | 2026-08-06 | 0 | 1 | 8 | 1 | 2 | 1 |
-| last180d | 2026-05-08 | 0 | 2 | 21 | 1 | 4 | 2 |
-| 360d | 2025-11-09 | 0 | 2 | 68 | 2 | 12 | 2 |
-| last720d | 2024-11-14 | 0 | 2 | 70 | 5 | 49 | 2 |
+| 30d | 2026-10-06 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last60d | 2026-09-06 | 0 | 1 | 4 | 0 | 1 | 1 |
+| 90d | 2026-08-07 | 0 | 2 | 8 | 1 | 2 | 2 |
+| last180d | 2026-05-09 | 0 | 3 | 21 | 1 | 4 | 3 |
+| 360d | 2025-11-10 | 0 | 3 | 68 | 2 | 12 | 3 |
+| last720d | 2024-11-15 | 0 | 3 | 70 | 5 | 49 | 3 |
 
 ## Release assets
 
@@ -100,4 +102,4 @@ Install metadata for hyper lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:24:45Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:33:56Z._
