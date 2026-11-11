@@ -33,8 +33,8 @@ x install hyper
 评分最低的几项:
 
 - **Maintained** (0/10) — project is archived
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -50,7 +50,7 @@ x install hyper
 
 ## 流行度
 
-- **Star**: 44,752 · **Fork**: 3,575 · **开放 issue**: 3,823 · **贡献者**: 328
+- **Star**: 44,753 · **Fork**: 3,574 · **开放 issue**: 3,823 · **贡献者**: 328
 
 ## 累计统计
 
@@ -60,12 +60,12 @@ x install hyper
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 1 | 2 | 0 | 0 | 1 |
-| last60d | 2026-09-11 | 0 | 1 | 4 | 0 | 1 | 1 |
-| 90d | 2026-08-12 | 0 | 2 | 7 | 0 | 2 | 2 |
-| last180d | 2026-05-14 | 0 | 3 | 18 | 1 | 4 | 3 |
-| 360d | 2025-11-15 | 0 | 3 | 66 | 2 | 12 | 3 |
-| last720d | 2024-11-20 | 0 | 3 | 68 | 5 | 49 | 3 |
+| 30d | 2026-10-12 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last60d | 2026-09-12 | 0 | 1 | 4 | 0 | 1 | 1 |
+| 90d | 2026-08-13 | 0 | 2 | 7 | 0 | 2 | 2 |
+| last180d | 2026-05-15 | 0 | 3 | 18 | 1 | 4 | 3 |
+| 360d | 2025-11-16 | 0 | 3 | 66 | 2 | 12 | 3 |
+| last720d | 2024-11-21 | 0 | 3 | 68 | 5 | 49 | 3 |
 
 ## Release 资产
 
@@ -102,4 +102,4 @@ hyper 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T08:37:57Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T07:15:07Z._
